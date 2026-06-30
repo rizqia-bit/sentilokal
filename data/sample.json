@@ -1,0 +1,12 @@
+[
+  { "user": "Budi", "text": "Produk bagus, pengiriman cepat!", "rating": 5, "date": "2024-01-15" },
+  { "user": "Ani", "text": "Kualitas oke, sesuai harga", "rating": 4, "date": "2024-01-14" },
+  { "user": "Cici", "text": "Pengemasan buruk, barang penyok", "rating": 2, "date": "2024-01-13" },
+  { "user": "Dodi", "text": "Sangat puas, recommended seller", "rating": 5, "date": "2024-01-12" },
+  { "user": "Eka", "text": "Biasa aja, gak spesial", "rating": 3, "date": "2024-01-11" },
+  { "user": "Fajar", "text": "Warna tidak sesuai gambar", "rating": 2, "date": "2024-01-10" },
+  { "user": "Gina", "text": "Murah dan berkualitas, akan beli lagi", "rating": 5, "date": "2024-01-09" },
+  { "user": "Hadi", "text": "Lama nyampe, tapi barang ok", "rating": 3, "date": "2024-01-08" },
+  { "user": "Indah", "text": "Jelek banget, gak worth it", "rating": 1, "date": "2024-01-07" },
+  { "user": "Joko", "text": "Pelayanan ramah, cepat respon", "rating": 5, "date": "2024-01-06" }
+]
